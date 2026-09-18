@@ -1,4 +1,4 @@
-﻿# CISC7204 Assignment 01
+# CISC7204 Assignment 01
 
 Data Science and Data Visualization - Assignment 01
 
@@ -19,7 +19,6 @@ Data Science and Data Visualization - Assignment 01
 | `modules/Module04/` | Module 04 notebooks and evidence screenshots |
 | `modules/Module05/` | Module 05 notebooks and evidence screenshots |
 | `modules/Module06/` | Module 06 project notebooks and evidence screenshots |
-| `CISC7204-Assgn01-mc664822-PreliminaryProjectProposal-Revised.docx` | Preliminary project proposal |
 
 Each module folder contains two completed notebooks and six evidence
 screenshots. The screenshots show the Python code and the executed output for
@@ -54,5 +53,3 @@ Distribution. The main Python libraries used are:
 2. Open a notebook from one of the module folders.
 3. Use a Python environment with the libraries listed above.
 4. Run the cells from top to bottom to reproduce the completed outputs.
-
-The notebooks contain their own dataset-loading logic and executed outputs.
